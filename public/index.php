@@ -19,10 +19,10 @@
         </fieldset>
         <div class="inner-form">
           <div class="input-field first-wrap">
-            <input id="search" type="text" placeholder="Senator's Name" />
+            <input id="search" name="name" type="text" placeholder="Senator's Name" />
           </div>
           <div class="input-field second-wrap">
-            <input id="location" type="text" placeholder="State" />
+            <input id="location" name="state" type="text" placeholder="State" />
           </div>
           <div class="input-field third-wrap">
             <button class="btn-search" type="submit">Search</button>
